@@ -1,4 +1,4 @@
-# Brightwave-logistics-Analysis
+# Brightwave-Security-SQL-Analysis
 
 ## Insider Risk, Data Access & Phishing Response Investigation
 
